@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FleetPulse</string>
+    <string name="driver_app_name">Fleet Driver</string>
+    <string name="owner_app_name">Fleet Owner</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "FleetPulse",
+  "description": "Connected Driver and Vehicle Owner attendance management system with check-in, odometer logs, and owner approval workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
